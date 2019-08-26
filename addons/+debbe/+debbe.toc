@@ -1,0 +1,13 @@
+## Interface: 80200
+## Title: debbe
+## Notes: Gathers data for debbe while you play.
+## Author: neurosnap
+## eMail: neurosnap@gmail.com
+## URL: https://debbe.io
+## Version: 80200
+## LoadOnDemand: 0
+## DefaultState: enabled
+## SavedVariables: dbItems
+## SavedVariablesPerCharacter: dbSettings
+
+debbe.lua
